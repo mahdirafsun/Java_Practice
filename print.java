@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-
+//  this is a commnet 
 public class Hello {
 	static Scanner mc=new Scanner(System.in);
 
